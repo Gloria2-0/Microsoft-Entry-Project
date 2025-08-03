@@ -21,7 +21,7 @@ Microsoft wants to launch a movie studio but lacks industry expertise.
 ---
 
 ## 🎯 Key Findings  
-- **Top Genres:** Action, Adventure, and Sci-Fi dominate revenue.  
+- **Top Genres:** Action, Adventure, and Animations dominate revenue.  
 - **Ratings vs Revenue:** Popularity drives revenue more than critical ratings.  
 - **Best Release Timing:** Summer and holidays yield higher box office returns.  
 
